@@ -1,0 +1,22 @@
+<?php
+
+$conti_anis = array(  //Ассоциативный массив массивов:
+"Antarctica" => ["Eudyptes chrysolophus", "Balaenoptera musculus"],
+"Eurasia" => "Виктор",
+"Africa" => "Москва",
+"Australia" => "Москва",
+"North America" => "Москва",
+"South America" => "Москва"
+);
+/*
+echo $array // Вызов эл-та Ассоциативнного массива:
+$array = array(
+"name" => "Виктор",
+"city" => "Москва"
+);
+//echo $array[ 'name']
+
+*/
+
+
+?>
